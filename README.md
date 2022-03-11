@@ -1,5 +1,5 @@
 <h1 align="center">
-Hi there! Welcome to Matthew's Github. 👋🥸🍻🧋💻
+Hi there! Welcome to Matt's Github. 👋🥸🍻🧋💻
 </h1>
 
 #### I’m currently...
