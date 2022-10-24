@@ -3,7 +3,7 @@ Hi there! Welcome to Matt's Github. 👋🥸🍻🧋💻
 </h1>
 
 #### I’m currently...
-- 💬 A final year **Business Analytics** student and **Data Analyst** @ Shopee, Singapore
+- 💬 A **Business Analytics** graduate and **Data Analyst** @ Shopee, Singapore
 - 🔭 Working on building my `Python` (leetcode!) and `SQL` repertoire!
 - 🌱 Learning about delivering impact through data-driven insights and statistical analyses
 - 📫 How to reach me: [🌐 LinkedIn](https://www.linkedin.com/in/matthewmcsl/) | [📧 E-mail](matthew97chan@gmail.com)
